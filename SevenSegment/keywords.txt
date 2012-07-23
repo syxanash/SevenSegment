@@ -1,0 +1,3 @@
+SevenSegment	KEYWORD1
+writePin	KEYWORD2
+encode_display	KEYWORD2
