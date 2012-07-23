@@ -39,7 +39,7 @@ Example:
 /home/myusername/Desktop/arduino-1.0.1/libraries/SevenSegment
 ```
 
-Once you've copied this folder, launch the Arduino environment and click on *Sketch **>** Import Library* and select **SevenSegment**.
+Once you've copied this folder, launch the Arduino environment and click on *Sketch > Import Library* and select **SevenSegment**.
 
 ## License
 ### vssu.pl is released under the [GNU General Public License (GPL3)](https://www.gnu.org/licenses/gpl-3.0.html):
