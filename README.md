@@ -1,12 +1,12 @@
-##Seven Segment Display
-###An object oriented interface for seven segment display usage
+## Seven Segment Display
+### An object oriented interface for seven segment display usage
 
 With this library you'll be able to write decimal numbers on seven segment displays, using [Arduino](http://arduino.cc).
 It provides also an object oriented interface to use this library.
 
 The code is self-explanatory, hence simply read the .h file to see all the methods of this library.
 
-##Synopsis
+## Synopsis
 
 ```c
 #include <SevenSegment.h>
@@ -30,7 +30,7 @@ void loop() {
 ```
 Notice that you don't need to use the **setup** function to make the display work, however this doesn't mean that you can not use it for other purposes.
 
-##Install this library
+## Install this library
 
 Simply place the folder **SevenSegment** into the **libraries** directory of your Arduino IDE.
 Example:
@@ -66,6 +66,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.THE SOFTWARE.
 ```
 
-##About
+## About
 
 This is my first Arduino library so if you have something to report: suggestions, criticisms, insults just let me know...
